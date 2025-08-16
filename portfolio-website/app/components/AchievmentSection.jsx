@@ -17,7 +17,7 @@ const acheivementsList = [
         postfix: "+"
     },
     {
-        prefix: "~ ",
+        // prefix: "~ ",
         metric: "Users",
         value: "10",
         postfix: "K"
