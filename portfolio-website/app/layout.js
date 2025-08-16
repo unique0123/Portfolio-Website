@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Unique Chukwudi",
   description: "Portfolio ",
+  icons: {
+    icon: "/images/alphalogo.png",  // path to your favicon in /public
+  },
 };
 
 export default function RootLayout({ children }) {
