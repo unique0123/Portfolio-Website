@@ -56,7 +56,7 @@ const ProjectSection = () => {
         },
     };
   return (
-    <section >
+    <section id='projects'>
     <h2 className='self-center justify-self-center font-extrabold text-2xl'>My Projects</h2>
     <div className='text-white flex flex-row items-center justify-center gap-2 py-4'>
         <ProjectTag  
